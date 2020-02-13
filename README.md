@@ -1,0 +1,2 @@
+# MaxEnt-ChineseDependencyParse
+基于openNLP最大熵接口的依存句法分析训练器
